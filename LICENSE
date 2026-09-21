@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 mml-companion-notes contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+ВНИМАНИЕ:
+
+Лицензия MIT применяется ТОЛЬКО к авторским материалам данного репозитория:
+- к собственному коду,
+- к пояснениям и решениям, написанным контрибьюторами,
+- к дополнительным примерам,
+- к вспомогательным скриптам и тестам.
+
+Лицензия НЕ РАСПРОСТРАНЯЕТСЯ на:
+- оригинальное содержание книги "Mathematics for Machine Learning"
+  (Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong),
+  опубликованной Cambridge University Press;
+- текст, иллюстрации, упражнения и иные материалы из книги,
+  защищённые авторским правом.
+
+При использовании материалов из книги в любых публикациях и презентациях
+необходимо ссылаться на оригинальное издание:
+
+  Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020).
+  Mathematics for Machine Learning. Cambridge University Press.
