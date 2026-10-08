@@ -55,6 +55,7 @@
 | 09 | Подпространства $\mathbb{R}^3$ | Визуализация данных, поиск аномалий |
 | 10 | Линейная независимость векторов | Проблема «мёртвых нейронов» |
 | 11 | Линейная комбинация, разложение по базису | Прямое распространение в нейросети |
+| 12 | Пересечение подпространств, ядро блочной матрицы $[V\mid -W]$ | CCA, multi-view learning |
 
 Проект находится в процессе развития: материалы будут постепенно дополняться, исправляться и улучшаться.
 
@@ -75,7 +76,8 @@ mml-companion-notes/
 │   ├── 08_matrix_inversion.ipynb
 │   ├── 09_subspaces.ipynb
 │   ├── 10_linear_independence.ipynb
-│   └── 11_linear_combination.ipynb
+│   ├── 11_linear_combination.ipynb
+|   └── 12_subspace_intersection_and_cca.ipynb
 ├── src/
 ├── data/
 ├── images/
