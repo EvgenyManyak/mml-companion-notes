@@ -57,6 +57,7 @@
 | 11 | Линейная комбинация, разложение по базису | Прямое распространение в нейросети |
 | 12 | Пересечение подпространств, ядро блочной матрицы $[V\mid -W]$ | CCA, multi-view learning |
 | 13 | Нулевое пространство, ранг и дефект, пересечение ядер $\ker A_1\cap\ker A_2$ | Неразличимость параметров, псевдообратная матрица |
+| 14 | Столбцовое пространство (образ), $\dim\operatorname{col}A=\operatorname{rank}A$, пересечение образов | Проекция МНК, model merging, low-rank |
 
 Проект находится в процессе развития: материалы будут постепенно дополняться, исправляться и улучшаться.
 
@@ -79,7 +80,8 @@ mml-companion-notes/
 │   ├── 10_linear_independence.ipynb
 │   ├── 11_linear_combination.ipynb
 │   ├── 12_subspace_intersection_and_cca.ipynb
-│   └── 13_null_spaces_and_intersection.ipynb
+│   ├── 13_null_spaces_and_intersection.ipynb
+│   └── 14_column_spaces_and_intersection.ipynb
 ├── src/
 ├── data/
 ├── images/
