@@ -58,6 +58,7 @@
 | 12 | Пересечение подпространств, ядро блочной матрицы $[V\mid -W]$ | CCA, multi-view learning |
 | 13 | Нулевое пространство, ранг и дефект, пересечение ядер $\ker A_1\cap\ker A_2$ | Неразличимость параметров, псевдообратная матрица |
 | 14 | Столбцовое пространство (образ), $\dim\mathrm{col}(A)=\mathrm{rank}(A)$, пересечение образов | Проекция МНК, model merging, low-rank |
+| 15 | Два метода поиска пересечения подпространств: система уравнений vs ядро блочной матрицы | CCA, выравнивание представлений (representation alignment) |
 
 Проект находится в процессе развития: материалы будут постепенно дополняться, исправляться и улучшаться.
 
@@ -81,7 +82,8 @@ mml-companion-notes/
 │   ├── 11_linear_combination.ipynb
 │   ├── 12_subspace_intersection_and_cca.ipynb
 │   ├── 13_null_spaces_and_intersection.ipynb
-│   └── 14_column_spaces_and_intersection.ipynb
+│   ├── 14_column_spaces_and_intersection.ipynb
+│   └── 15_subspace_intersection_methods.ipynb
 ├── src/
 ├── data/
 ├── images/
