@@ -60,6 +60,7 @@
 | 14 | Столбцовое пространство (образ), $\dim\mathrm{col}(A)=\mathrm{rank}(A)$, пересечение образов | Проекция МНК, model merging, low-rank |
 | 15 | Два метода поиска пересечения подпространств: система уравнений vs ядро блочной матрицы | CCA, выравнивание представлений (representation alignment) |
 | 16 | Линейные отображения: аддитивность, однородность, свойства интеграла/производной | Функции активации vs линейные слои |
+| 17 | Матрица линейного отображения, ранг, ядро и образ, теорема о ранге и дефекте | Feature collapse, низкоранговые слои, оценка размерности признаков |
 
 Проект находится в процессе развития: материалы будут постепенно дополняться, исправляться и улучшаться.
 
@@ -85,7 +86,8 @@ mml-companion-notes/
 │   ├── 13_null_spaces_and_intersection.ipynb
 │   ├── 14_column_spaces_and_intersection.ipynb
 │   ├── 15_subspace_intersection_methods.ipynb
-│   └── 16_linear_mappings.ipynb
+│   ├── 16_linear_mappings.ipynb
+│   └── 17_matrix_of_linear_map.ipynb
 ├── src/
 ├── data/
 ├── images/
