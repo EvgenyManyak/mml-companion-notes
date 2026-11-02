@@ -63,6 +63,7 @@
 | 17 | Матрица линейного отображения, ранг, ядро и образ, теорема о ранге и дефекте | Feature collapse, низкоранговые слои, оценка размерности признаков |
 | 18 | Ядро и образ композиции при $f\circ g=\mathrm{id}$; левый/правый обратный | Инвертируемые архитектуры (normalizing flows), точное восстановление |
 | 19 | Ядро и образ эндоморфизма, смена базиса $\tilde{A}=P^{-1}AP$, инварианты подобия | Диагонализация, PCA, whitening, спектр гессиана |
+| 20 | Матрица перехода $P=M_{\text{цель}}^{-1}M_{\text{ист}}$ и матрица гомоморфизма $A'=P_2AP_1$ | Эмбеддинги в разных базисах, whitening, матричная факторизация |
 
 Проект находится в процессе развития: материалы будут постепенно дополняться, исправляться и улучшаться.
 
@@ -73,25 +74,26 @@
 ```
 mml-companion-notes/
 ├── notebooks/
-│   ├── 01_binary_operation.ipynb
-│   ├── 02_modular_arithmetic.ipynb
-│   ├── 03_heisenberg_group.ipynb
-│   ├── 04_matrix_multiplication.ipynb
-│   ├── 05_linear_systems.ipynb
-│   ├── 06_gaussian_elimination.ipynb
-│   ├── 07_eigenvectors.ipynb
-│   ├── 08_matrix_inversion.ipynb
-│   ├── 09_subspaces.ipynb
-│   ├── 10_linear_independence.ipynb
-│   ├── 11_linear_combination.ipynb
-│   ├── 12_subspace_intersection_and_cca.ipynb
-│   ├── 13_null_spaces_and_intersection.ipynb
-│   ├── 14_column_spaces_and_intersection.ipynb
-│   ├── 15_subspace_intersection_methods.ipynb
-│   ├── 16_linear_mappings.ipynb
-│   ├── 17_matrix_of_linear_map.ipynb
-│   ├── 18_composition_kernel_image.ipynb
-│   └── 19_kernel_image_basis_change.ipynb
+│   ├── 2.01_binary_operation.ipynb
+│   ├── 2.02_modular_arithmetic.ipynb
+│   ├── 2.03_heisenberg_group.ipynb
+│   ├── 2.04_matrix_multiplication.ipynb
+│   ├── 2.05_linear_systems.ipynb
+│   ├── 2.06_gaussian_elimination.ipynb
+│   ├── 2.07_eigenvectors.ipynb
+│   ├── 2.08_matrix_inversion.ipynb
+│   ├── 2.09_subspaces.ipynb
+│   ├── 2.10_linear_independence.ipynb
+│   ├── 2.11_linear_combination.ipynb
+│   ├── 2.12_subspace_intersection_and_cca.ipynb
+│   ├── 2.13_null_spaces_and_intersection.ipynb
+│   ├── 2.14_column_spaces_and_intersection.ipynb
+│   ├── 2.15_subspace_intersection_methods.ipynb
+│   ├── 2.16_linear_mappings.ipynb
+│   ├── 2.17_matrix_of_linear_map.ipynb
+│   ├── 2.18_composition_kernel_image.ipynb
+│   ├── 2.19_kernel_image_basis_change.ipynb
+│   └── 2.20_change_of_basis_homomorphism.ipynb
 ├── src/
 ├── data/
 ├── images/
